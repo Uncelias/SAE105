@@ -70,19 +70,23 @@
     <img src="public/img/Instagram_icon.webp"  width="25px"  alt="Instagram"> 
     <img src="public/img/Twitter_Bird.webp"  width="25px"  alt="Twitter"> 
 
-    <p>Formulaire</p>
+    <div class="decalform">
+    <div class="cadre_formulaire">
+        <p class="titre_formulaire">Formulaire</p>
+    </div>
 
     <form action="tkt" method="post">
         <div>
-            <label for="name">Votre nom(obligatoire)</label>
-            <input type="text" id="name" name="user_name">
+            <label class="label" for="name">Votre nom(obligatoire)</label>
+            <input class="input" type="text" id="name" name="user_name">
         </div>
         <div>
-            <label for="name">Votre e-mail(obligatoire)</label>
-            <input type="email" id="mail" name="user_mail">
+            <label class="label" for="name">Votre e-mail(obligatoire)</label>
+            <input class="input" type="email" id="mail" name="user_mail">
         </div>
         <div>
-            <label for="mail">Votre Message</label>
-            <textarea id="msg" name="user_message"></textarea>
+            <label class="label" for="mail">Votre Message</label>
+            <textarea class="textarea" id="msg" name="user_message"></textarea>
         </div>
+    </div>
 </form>
