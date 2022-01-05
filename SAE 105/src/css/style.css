@@ -1,0 +1,6 @@
+@import url('http://fonts.cdnfonts.com/css/norwester');
+
+@import url("./base/main.css");
+@import url('utils/variables.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url("./vendors/vendors.css");

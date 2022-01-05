@@ -1,0 +1,156 @@
+body{
+    background-image: url("/public/img/fond-bleu-accueil.webp");
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding-bottom: 150px;
+
+}
+
+.centerimg{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin: auto;
+}
+
+.imggallerie{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    margin: 3px;
+}
+
+.imgmenu{
+    position: absolute;
+    top: 12px;
+    left: 5px;
+    margin: 3px;
+}
+
+p{
+    font-family: var(--Lato);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2{
+    font-family: var(--Lato);
+    align-content: center;
+    text-align: center;
+}
+
+h4{
+    font-family: var(--Lato);
+}
+
+
+header{
+    background: #002751;
+    height: 50px;
+    margin:0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+h1{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 82px;
+    top: 0px;
+    font-family: var(--Norwester);
+}
+
+.premartimg{
+    background-image: url("/public/img/premart.webp");
+    height: 120px;
+    position: absolute;
+    /* top:800px */
+    padding-top: 1px;
+  
+}
+
+.secondtimg{
+    background-image: url("/public/img/secondart.webp");
+    height: 120px;
+    position: absolute;
+    top: 1000px;
+    width: 300px;
+    left: 40px;
+
+  
+}
+.troisimg{
+    background-image: url("/public/img/3emeart.webp");
+    height: 100px;
+    position: absolute;
+    top: 1185px;
+    width: 100%;
+    padding-top 15px;
+}
+.bliresuite2{
+    position: absolute;
+    left: 180px;
+    bottom: -325px;
+}
+
+.bliresuite{
+    position: absolute;
+    left: 180px;
+    bottom: -130px;
+    padding-bottom: 15px;
+}
+
+.bliresuite3{
+    position: absolute;
+    left: 180px;
+    bottom: -22px;
+}
+
+.monteleger{
+    position: absolute;
+    top: -50px;
+    left: 29px;
+}
+
+.monteleger2{
+    position: absolute;
+    top: -50px;
+    left: 110px;
+}
+
+.imgmillieuatlantis{
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: block;
+    padding-top: 200px;
+    top: 1600px;
+    position: absolute;
+  
+}
+
+.first{
+    padding-bottom: 150px;
+}
+
+.second{
+    padding-bottom: 150px;
+}
+
+.third{
+    padding-bottom: 150px;
+}
+
+.debut{
+    padding-bottom: 150px;
+}
+
+.finito{
+    transform: rotate(180deg);
+    margin: 0px;
+    padding-bottom: 150px;
+}
