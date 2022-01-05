@@ -1,0 +1,15 @@
+@import url('http://fonts.cdnfonts.com/css/norwester');
+
+@import url("./base/main.css");
+@import url('utils/variables.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url("./vendors/vendors.css");
+@import url("./layouts/footer.css");
+@import url("./layouts/footerpolu.css");
+@import url("components/menu.css");
+@import url("base/moveboutonbas.css");
+@import url("./js/function.js");
+@import url("/src/css/base/carrousel.css");
+@import url("components/formulaire.css")
+
+

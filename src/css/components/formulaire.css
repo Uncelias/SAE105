@@ -1,0 +1,41 @@
+.titre_formulaire {
+    font-family: var(--Lato) ;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+    
+
+.cadre_formulaire {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #002657;
+    border-radius: 15px;
+    width: 107px;
+    height: 38px;
+}
+
+.label {
+    font-family: var(--Lato);
+    font-size: 10px;
+    margin: 2%;
+}
+
+.input {
+    margin: 2%;
+    width: 314px;
+    height: 24px;
+
+}
+
+.textarea {
+    margin: 2%;
+    width: 314px;
+    height: 252px;
+}
+
+.decalform{
+    margin-left: 20px;
+}
