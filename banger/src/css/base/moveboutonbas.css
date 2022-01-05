@@ -1,0 +1,30 @@
+.boutonsbaspollu{
+    position: absolute;
+    left: 200px;
+    bottom: -1600px;
+    text-align: left;
+}
+
+.flechebaspollu{
+    position: absolute;
+    left: 330px;
+    bottom: -1585px;
+}
+
+.boutonsbasocean{
+    position: absolute;
+    left: 200px;
+    bottom: -1580px;
+    text-align: left;
+}
+
+.boutonsbasocean2{
+    position: absolute;
+    left: 200px;
+    bottom: -1580px;
+    text-align: left;
+}
+
+.bottommarg{
+    margin-bottom: 30px;
+}
